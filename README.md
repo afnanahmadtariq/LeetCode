@@ -1,2 +1,2 @@
-# LeetCode-Python
-LeetCode Practice in Python
+# LeetCode
+LeetCode Practice for all Languages. 😉
