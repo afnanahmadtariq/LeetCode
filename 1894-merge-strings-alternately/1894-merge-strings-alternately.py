@@ -4,5 +4,5 @@ class Solution:
         index = 1
         for i in word2:
             l.insert(index, i)
-            index +=2
+            index += 2
         return "".join(l)
