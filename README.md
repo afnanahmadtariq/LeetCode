@@ -11,6 +11,7 @@ LeetCode Practice for all Languages. 😉
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/afnanahmadtariq/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -21,6 +22,7 @@ LeetCode Practice for all Languages. 😉
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
