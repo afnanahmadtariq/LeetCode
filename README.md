@@ -6,6 +6,7 @@ LeetCode Practice for all Languages. 😉
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/afnanahmadtariq/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -23,6 +24,7 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
@@ -33,4 +35,8 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
