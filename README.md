@@ -22,10 +22,15 @@ LeetCode Practice for all Languages. 😉
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
