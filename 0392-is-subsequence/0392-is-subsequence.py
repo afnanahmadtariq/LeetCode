@@ -1,6 +1,5 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        s = list(s)
         t = list(t)
         i = 0
         l = len(s)
@@ -10,6 +9,4 @@ class Solution:
             elif s[i] == char:
                 i += 1
                 continue
-        if i >= l:
-            return True
-        return False
+        return i == l
