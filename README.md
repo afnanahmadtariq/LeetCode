@@ -26,6 +26,7 @@ LeetCode Practice for all Languages. 😉
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -35,8 +36,13 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
