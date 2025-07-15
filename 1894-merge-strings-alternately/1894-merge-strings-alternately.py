@@ -1,11 +1,12 @@
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
-        merged = []
+        result = []
+        minLength = min(len(word1), len(word2))
 
-        for a, b in zip(word1, word2):
-            merged.append(a + b)
-        
-        merged.append(word1[len(word2):])
-        merged.append(word2[len(word1):])
+        for i in range(minLength):
+            result.append(word1[i])
+            result.append(word2[i])
 
-        return "".join(merged)
+        result.extend([word1[minLength:], word2[minLength:]])
+
+        return ''.join(result)
