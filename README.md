@@ -15,6 +15,7 @@ LeetCode Practice for all Languages. 😉
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/afnanahmadtariq/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
@@ -30,6 +31,7 @@ LeetCode Practice for all Languages. 😉
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/afnanahmadtariq/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
@@ -49,6 +51,7 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/afnanahmadtariq/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
