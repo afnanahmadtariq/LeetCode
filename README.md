@@ -6,12 +6,14 @@ LeetCode Practice for all Languages. 😉
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/afnanahmadtariq/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
@@ -60,4 +62,8 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
