@@ -14,6 +14,7 @@ LeetCode Practice for all Languages. 😉
 | ------- |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/afnanahmadtariq/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -28,6 +29,7 @@ LeetCode Practice for all Languages. 😉
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
@@ -53,4 +56,8 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/afnanahmadtariq/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
