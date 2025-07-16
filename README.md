@@ -47,6 +47,7 @@ LeetCode Practice for all Languages. 😉
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/afnanahmadtariq/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/afnanahmadtariq/LeetCode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/afnanahmadtariq/LeetCode/tree/master/0932-monotonic-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Math
@@ -78,4 +79,12 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/afnanahmadtariq/LeetCode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/afnanahmadtariq/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
