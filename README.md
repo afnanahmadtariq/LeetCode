@@ -42,10 +42,12 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/afnanahmadtariq/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/afnanahmadtariq/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
