@@ -44,6 +44,7 @@ LeetCode Practice for all Languages. 😉
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/afnanahmadtariq/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ LeetCode Practice for all Languages. 😉
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/afnanahmadtariq/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Linked List
 |  |
 | ------- |
