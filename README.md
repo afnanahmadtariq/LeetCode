@@ -21,6 +21,7 @@ LeetCode Practice for all Languages. 😉
 | [0383-ransom-note](https://github.com/afnanahmadtariq/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/afnanahmadtariq/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/afnanahmadtariq/LeetCode/tree/master/0392-is-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/afnanahmadtariq/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1894-merge-strings-alternately](https://github.com/afnanahmadtariq/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -86,5 +87,6 @@ LeetCode Practice for all Languages. 😉
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/afnanahmadtariq/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/afnanahmadtariq/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
