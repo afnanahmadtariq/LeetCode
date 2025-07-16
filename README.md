@@ -13,6 +13,7 @@ LeetCode Practice for all Languages. 😉
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/afnanahmadtariq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/afnanahmadtariq/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/afnanahmadtariq/LeetCode/tree/master/0242-valid-anagram) |
@@ -28,6 +29,7 @@ LeetCode Practice for all Languages. 😉
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/afnanahmadtariq/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/afnanahmadtariq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/afnanahmadtariq/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/afnanahmadtariq/LeetCode/tree/master/0217-contains-duplicate) |
@@ -49,6 +51,7 @@ LeetCode Practice for all Languages. 😉
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/afnanahmadtariq/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/afnanahmadtariq/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/afnanahmadtariq/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
