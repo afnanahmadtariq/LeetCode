@@ -1,5 +1,4 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        for i in set(t):
-            if s.count(i)!=t.count(i):
-                return i
+        count = Counter(t) - Counter(s)
+        return count.most_common(1)[0][0]
